@@ -7,7 +7,7 @@ Global open source communities are shaping the future of software together — a
 * [Explore featured projects](https://www.vieo.ai/ecosystem/)
 * [Explore open source jobs at Microsoft](https://careers.vieo.ai/)
 * Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-and not [opensource@vieo.ai](mailto:opensource@vieo.ai to ask questions specific to an individual Vieo
+and not [opensource@vieo.ai](mailto:opensource@vieo.ai) to ask questions specific to an individual Vieo
 repository.
 
 Visit [opensource.vieo.ai](https://opensource.vieo.ai) to learn more!
